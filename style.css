@@ -1,0 +1,21 @@
+@font-face{
+    font-family: "poppins";
+    src: url(Poppins/Poppins-Medium.ttf);
+    font-style: normal;
+    font-weight: 700;
+}
+A{
+    background-color:  #7966FA;
+    font-family: "poppins";    
+}
+.s{
+    margin-top: 130px;
+    font-family: "poppins";
+    size: 64px;
+}
+.col{
+background-color: chartreuse;
+}
+.flex{
+    display: flex;
+}
